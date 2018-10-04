@@ -80,7 +80,7 @@ The installation steps are the following:
 * open Server Manager 8.1+
 * select the existing set of databases to update \/ install a new set of databases
 * manage extensions of the existing set of database \/ follow the installation wizard up to the manage extension pane
-* select _com.castsoftware.labs.mips-redux.2.0.0_
+* download _com.castsoftware.labs.mips-redux
 * run the update \/ the installation  
 * open CAST Management Studio
 * import the Assessment Model from the Dashboard Service processed in steps \#3 to \#6 above; this is a _Mandatory_ step to start computing the new indicator, one MUST import and use the Assessment Model from the Dashboard that was updated with the extension
